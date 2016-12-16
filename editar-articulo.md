@@ -183,7 +183,7 @@ Ahora quedará esperar que sea aceptado o no.
   </a>
 </div>
 
-<strong class="link-to-github">[Editar este artículo](https://github.com/Pandawebs/Tutoriales-Javascript/edit/master/articles/objetos-javascript.md " target="_blank)</strong>
+<strong class="link-to-github">[Editar este artículo](https://github.com/Pandawebs/edit-articlesPW/edit/master/editar-articulo.md " target="_blank)</strong>
 
 
 <hr>
